@@ -1,4 +1,5 @@
 Primero habría que hacer ipconfig para conocer la red en la que uno se encuetra
+
 [https://nmap.org/man/es/man-briefoptions.html](https://nmap.org/man/es/man-briefoptions.html)
 
 Si no funciona es posible que:
